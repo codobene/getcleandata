@@ -6,5 +6,5 @@ original data: [Human Activity Recognition Using Smartphones](http://archive.ics
 this repository contains three files
   1. this README.md file
   2. run.analysis.R, the R script that will download an educational dataset of locations from a Samsung smartphone
-  3. codebook.pdf, the code book explaining all variables 
+  3. CODEBOOK.md, the code book explaining all variables 
 
