@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
-this is Benedikt Kortüm's submission to the peer-graded assignment for the coursera R course "Getting and Cleaning Data"
+this is **Benedikt Kortüm's** submission to the peer-graded assignment for the coursera R course "Getting and Cleaning Data"
 
-original data: 
+original data: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 this repository contains three files
   1. this README.md file
